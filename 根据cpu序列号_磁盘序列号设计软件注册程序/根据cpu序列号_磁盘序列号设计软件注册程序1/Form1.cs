@@ -170,7 +170,7 @@ namespace 根据cpu序列号_磁盘序列号设计软件注册程序1
                 textBox1.Text = (String)iData.GetData(DataFormats.Text);
             }
         }
-
+        //退出
         private void button7_Click(object sender, EventArgs e)
         {
             if (label1.Text != "")

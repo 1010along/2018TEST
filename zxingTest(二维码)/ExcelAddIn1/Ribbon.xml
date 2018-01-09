@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab id="tab1" label="二维码">
+                <group id="group1" label="二维码">
+                    <button id="button1" onAction="button1_Click" label="生成二维码" size="large" />
+                    <button id="button2" onAction="button2_Click" label="生成条形码" size="large" />
+                    <button id="button3" onAction="button3_Click" label="解码二维码" size="large" />
+                </group>
+                <group id="group2" label="注册">
+                    <button id="button4" onAction="button4_Click" label="注册" size="large" />
+                </group>
+                <group id="group3" label="作者">
+                    <gallery id="gallery1" label="微信公众号" itemHeight="500" itemWidth="500" />
+                    <gallery id="gallery2" label="微信" showImage="false" />
+                    <gallery id="gallery3" label="QQ群" showImage="false" />
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

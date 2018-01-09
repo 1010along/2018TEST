@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxingTest", "zxingTest\zxingTest.csproj", "{4DF8222B-22FF-474A-8CB5-C6ECADE4EEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelAddIn1", "ExcelAddIn1\ExcelAddIn1.csproj", "{8279295B-6E0F-4F73-94D7-9E816A4B7725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftRegister", "SoftRegister\SoftRegister.csproj", "{8EA4F465-EBDC-417F-927D-E42B74CDA6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF8222B-22FF-474A-8CB5-C6ECADE4EEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF8222B-22FF-474A-8CB5-C6ECADE4EEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF8222B-22FF-474A-8CB5-C6ECADE4EEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF8222B-22FF-474A-8CB5-C6ECADE4EEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8279295B-6E0F-4F73-94D7-9E816A4B7725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8279295B-6E0F-4F73-94D7-9E816A4B7725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8279295B-6E0F-4F73-94D7-9E816A4B7725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8279295B-6E0F-4F73-94D7-9E816A4B7725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA4F465-EBDC-417F-927D-E42B74CDA6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA4F465-EBDC-417F-927D-E42B74CDA6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA4F465-EBDC-417F-927D-E42B74CDA6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA4F465-EBDC-417F-927D-E42B74CDA6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8679891F-2657-4AFC-A811-F120BDAAFCB0}
+	EndGlobalSection
+EndGlobal
